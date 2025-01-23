@@ -5,7 +5,7 @@ app = QApplication([])
 
 window = QWidget()
 window.setWindowTitle("JANELA")  # Define o título da janela
-window.setStyleSheet("background-color: rgba(0, 255, 0, 0.5);")  # Define a cor de fundo para verde
+# window.setStyleSheet("background-color: rgba(0, 255, 0, 0.5);")  # Define a cor de fundo para verde
 
 layout = QVBoxLayout()
 
