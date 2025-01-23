@@ -67,6 +67,7 @@ print('='*100)
 text = 'Lucas Oliveira'
 print(text.replace('Lucas', 'João')) # Substitui a palavra 'Lucas' por 'João'
 print(text.replace('Lucas', 'João').replace('Oliveira', 'Silva')) # Substitui a palavra 'Lucas' por 'João' e 'Oliveira' por 'Silva'
+print(text.replace('a', '#', 1).replace('a', '#')) # Saída: 'Lucas Oliveir#'
 
 print('='*100)
 # OPERADOR DE REMOÇÃO DE ESPAÇOS
