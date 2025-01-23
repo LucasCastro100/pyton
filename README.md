@@ -11,8 +11,20 @@
 ### Neste diretorio sigam as pastas para ver os projetos
 
 - Fundamentos
-  - INPUTS  
-  - OPERADORES STRINGS  
+  - Introctions
+    - Inputs  
+    - Lists  
+    - Operations strings  
+    - Type dados
 
 - Projetos
   - EM DESENVOLVIMENTO...
+
+## Nos projetos utilize
+
+#### Criar um arquivo requirements.txt
+  - Para criar o arquivo com as instalaçções, cada instalação tem que rodar o arquivo novamente
+    - pip freeze > requirements.txt
+  
+  - Para instalar as dependecias
+    - pip install -r requirements.txt

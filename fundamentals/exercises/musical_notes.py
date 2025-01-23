@@ -1,7 +1,6 @@
-notes = ["Sol", "Dó", "Mi", "Ré", "Fá"]
-
 def harmonicReorganizer(list_notes):    
     list_notes.sort()    
-    return notes
+    return list_notes
 
+notes = ["Sol", "Dó", "Mi", "Ré", "Fá"]
 print(harmonicReorganizer(notes))    
