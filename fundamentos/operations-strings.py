@@ -81,3 +81,52 @@ text = 'Lucas Oliveira'
 print(len(text)) # Conta quantos caracteres tem na string
 print(text.count('a')) # Conta quantas vezes o caractere 'a' aparece na string
 print(text.count('a', 0, 5)) # Conta quantas vezes o caractere 'a' aparece na string do índice 0 ao 5
+
+print('='*100)
+# OPERADOR DE BUSCA DE CARACTERES
+text = 'Lucas Oliveira'
+print(text.find('a')) # Retorna o índice do caractere 'a' na string
+print(text.find('z')) # Retorna -1 caso não encontre o caracterer 'z' na string
+print(text.find('a', 0, 5)) # Retorna o índice do caractere 'a' na string do índice 0 ao 5
+print(text.rfind('a')) # Retorna o índice do último caractere 'a' na string
+print(text.rfind('z')) # Retorna -1 caso não encontre o último caractere 'z' na string
+print(text.rfind('a', 0, 5)) # Retorna o índice do último caractere 'a' na string do índice 0 ao 5
+
+print('='*100)
+# OPERADOR DE VERIFICAÇÃO DE TIPO
+text = 'Lucas Oliveira'
+print(text.isalpha()) # Verifica se a string é alfabética
+print(text.isdigit()) # Verifica se a string é numérica
+print(text.isalnum()) # Verifica se a string é alfanumérica
+print(text.isspace()) # Verifica se a string é um espaço
+print(text.islower()) # Verifica se a string está em minúsculo
+print(text.isupper()) # Verifica se a string está em maiúsculo
+print(text.istitle()) # Verifica se a string está em formato de título
+print(text.isnumeric()) # Verifica se a string é numérica
+print(text.isdecimal()) # Verifica se a string é decimal
+print(text.isidentifier()) # Verifica se a string é um identificador
+print(text.isprintable()) # Verifica se a string é imprimível
+print(text.isascii()) # Verifica se a string é ascii
+print(text.isidentifier()) # Verifica se a string é um identificador
+
+print('='*100)
+# OPERADOR DE FORMATAÇÃO DE ESPAÇOS
+text = 'Lucas Oliveira'
+print(text.center(50)) # Centraliza a string em 50 espaços
+print(text.ljust(50)) # Justifica a string a esquerda em 50 espaços
+print(text.rjust(50)) # Justifica a string a direita em 50 espaços
+print(text.center(50, '-')) # Centraliza a string em 50 espaços preenchendo com '-'
+print(text.ljust(50, '-')) # Justifica a string a esquerda em 50 espaços preenchendo com '-'
+print(text.rjust(50, '-')) # Justifica a string a direita em 50 espaços preenchendo com '-'
+
+print('='*100)
+# OPERADOR DE FORMATAÇÃO DE CARACTERES
+text = 'Lucas Oliveira'
+print(text.capitalize()) # Converte o primeiro caractere para maiúsculo
+print(text.title()) # Converte o primeiro caractere de cada palavra para maiúsculo
+print(text.upper()) # Converte a string para maiúsculo
+print(text.lower()) # Converte a string para minúsculo
+print(text.swapcase()) # Converte a string para maiúsculo e minúsculo
+print(text.casefold()) # Converte a string para minúsculo
+print(text.title().istitle()) # Verifica se a string está em formato de título
+
