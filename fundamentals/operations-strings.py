@@ -129,4 +129,3 @@ print(text.lower()) # Converte a string para minúsculo
 print(text.swapcase()) # Converte a string para maiúsculo e minúsculo
 print(text.casefold()) # Converte a string para minúsculo
 print(text.title().istitle()) # Verifica se a string está em formato de título
-
