@@ -23,7 +23,7 @@
 ## Nos projetos utilize
 
 #### Criar um arquivo requirements.txt
-  - Para criar o arquivo com as instalaçções, cada instalação tem que rodar o arquivo novamente
+  - Para criar o arquivo com as instalações, cada instalação tem que rodar o arquivo novamente
     - pip freeze > requirements.txt
   
   - Para instalar as dependecias
