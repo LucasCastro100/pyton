@@ -22,7 +22,7 @@
     - Operations strings  
     - Type dados  
   - Modules e PIP
-    - Math
+    - Calc
 
 - Projetos  
   - EM DESENVOLVIMENTO...
