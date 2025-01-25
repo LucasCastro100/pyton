@@ -24,7 +24,7 @@
   - Modules e PIP
     - Calc
 
-- Projetos  
+- Projetos
   - EM DESENVOLVIMENTO...
 
 ## Nos projetos utilize
