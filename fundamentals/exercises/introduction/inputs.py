@@ -1,6 +1,4 @@
 '''
-Antecessor e Sucessor de um número
-
 Escreva um programa em Python que leia um número e represente o número antecessor e sucessor desse número que foi lido, utilizando operadores de atribuição.
 '''
 
@@ -9,8 +7,6 @@ print(f'O antecessor de {number} é {number - 1} e o sucessor é {number + 1}')
 
 
 '''
-Média de 4 notas
-
 Escreva um programa em Python que leia quatro números e calcule a média entre esses números
 '''
 

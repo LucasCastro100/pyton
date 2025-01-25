@@ -10,18 +10,24 @@
 ## AQUI FALAREMOS SOBRE PYTHON
 ### Neste diretorio sigam as pastas para ver os projetos
 
-- Fundamentos
+- Fundamentos  
+  - Exercises  
   - Introctions
+    - Dictionary
+    - Functions
     - Inputs  
     - Lists  
+    - Lists Comprehension
+    - Loops
     - Operations strings  
-    - Type dados
+    - Type dados  
+  - Modules e PIP
+    - Math
 
-- Projetos
+- Projetos  
   - EM DESENVOLVIMENTO...
 
 ## Nos projetos utilize
-
 #### Criar um arquivo requirements.txt
   - Para criar o arquivo com as instalações, cada instalação tem que rodar o arquivo novamente
     - pip freeze > requirements.txt

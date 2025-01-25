@@ -1,0 +1,19 @@
+# Ignorar todas as pastas __pycache__ em qualquer diretório
+**/__pycache__/
+
+# Ignorar arquivos bytecode Python
+*.pyc
+*.pyo
+
+# Ignorar diretórios de ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos específicos de IDEs/editores
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
