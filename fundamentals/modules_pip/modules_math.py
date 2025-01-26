@@ -1,3 +1,4 @@
+#help('modules') aqui com ese comando o python traz todos os modules nativos disponiveis
 import calc
 
 print(calc.sum(2, 3)) # 5

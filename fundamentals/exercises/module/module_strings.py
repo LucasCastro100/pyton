@@ -9,3 +9,8 @@ Retornar apenas letras com índice ímpar.
 '''
 
 import strings
+inputString = input('Digite a palavra: ')
+
+print(strings.inverse(inputString))
+print(strings.even_char(inputString))
+print(strings.odd_char(inputString))

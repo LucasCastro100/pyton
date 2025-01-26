@@ -10,7 +10,7 @@
 ## AQUI FALAREMOS SOBRE PYTHON
 ### Neste diretorio sigam as pastas para ver os projetos
 
-- Fundamentos  
+- Fundamentos 
   - Exercises  
   - Introctions
     - Dictionary

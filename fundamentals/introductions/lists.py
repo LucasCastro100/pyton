@@ -76,4 +76,7 @@ new_list = type_languages + ['Java', 'C#']
 
 #REPETINDO UMA LISTA
 new_list = type_languages * 2
+
+ENUMERATE
+retorna tanto o índice quanto o valor do item atual em cada iteração. Isso é útil quando você precisa de ambos, o índice e o valor, ao iterar.
 '''
