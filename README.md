@@ -21,7 +21,7 @@
 
 ## Nos projetos utilize
 #### Criar um arquivo requirements.txt
-  - Para atualizar o pip in+sta+l
+  - Para atualizar o pip instal
     - python.exe -m pip install --upgrade pip  
 
   - Para criar o arquivo com as instalações, cada instalação tem que rodar o arquivo novamente
