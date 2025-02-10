@@ -1,6 +1,10 @@
 # Ignorar todas as pastas __pycache__ em qualquer diretório
 **/__pycache__/
+**/.venv/
+
 certificados
+dicas
+
 
 # Ignorar arquivos bytecode Python
 *.pyc

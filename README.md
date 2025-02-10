@@ -12,25 +12,21 @@
 
 - Fundamentos 
   - Exercises  
-  - Introctions
-    - Dictionary
-    - Functions
-    - Inputs  
-    - Lists  
-    - Lists Comprehension
-    - Loops
-    - Operations strings  
-    - Type dados  
+  - Introctions 
   - Modules e PIP
-    - Calc
+  - POO
 
 - Projetos
   - EM DESENVOLVIMENTO...
 
 ## Nos projetos utilize
 #### Criar um arquivo requirements.txt
+  - Para atualizar o pip in+sta+l
+    - python.exe -m pip install --upgrade pip  
+
   - Para criar o arquivo com as instalações, cada instalação tem que rodar o arquivo novamente
-    - pip freeze > requirements.txt
+    - pip freeze -l > requirements.txt.
   
   - Para instalar as dependecias
     - pip install -r requirements.txt
+
