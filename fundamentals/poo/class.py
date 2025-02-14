@@ -44,7 +44,7 @@ class Movie:
     def __str__(self):
         return f"Filme: {self.name}"
     
-    def techinal_sheet(self):
+    def techinal_sheet(self): # isso e um metodo da instancia
         print("-- DADOS DO FILME --")
         print(f"NOME: {self.name}")
         print(f"ANO LANÇAMENTO: {self.yearLaunch}")
