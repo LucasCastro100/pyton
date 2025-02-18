@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 # Carregar os dados do arquivo JSON
-with open("dados.json", "r", encoding="utf-8") as file:
+with open("alunos.json", "r", encoding="utf-8") as file:
     lista_usuarios = json.load(file)
 
 # Configurar o WebDriver
@@ -18,6 +18,7 @@ for dados in lista_usuarios:
     
     # Preencher o formulário
     driver.find_element(By.NAME, "nome").send_keys(dados["nome"])
+    driver.find_element(By.NAME, "nickname").send_keys(dados["nickname"])
     driver.find_element(By.NAME, "email").send_keys(dados["email"])
     driver.find_element(By.NAME, "telefone").send_keys(dados["telefone"])
     
