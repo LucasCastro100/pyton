@@ -3,31 +3,31 @@
       "nome": "João Silva",
       "nickname": "joaosilva",
       "email": "joao.silva@example.com",
-      "telefone": "+55 11 98765-4321"
+      "pass": "123456"
     },
     {
       "nome": "Maria Oliveira",
       "nickname": "maria_oli",
       "email": "maria.oliveira@example.com",
-      "telefone": "+55 21 99876-5432"
+      "pass": "123456"
     },
     {
       "nome": "Carlos Santos",
       "nickname": "carloss",
       "email": "carlos.santos@example.com",
-      "telefone": "+55 31 91234-5678"
+      "pass": "123456"
     },
     {
       "nome": "Ana Souza",
       "nickname": "aninha_souza",
       "email": "ana.souza@example.com",
-      "telefone": "+55 41 97654-3210"
+      "pass": "123456"
     },
     {
       "nome": "Pedro Lima",
       "nickname": "pedrol",
       "email": "pedro.lima@example.com",
-      "telefone": "+55 51 92345-6789"
+      "pass": "123456"
     }
   ]
   
