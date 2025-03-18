@@ -10,13 +10,13 @@ import time
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Construir o caminho absoluto do arquivo Excel
-file_path = os.path.join(current_dir, "tabela.xlsm")
+file_path = os.path.join(current_dir, "nome_tabela.extensão")
 
 # Carregar os dados do arquivo Excel
 try:
     df = pd.read_excel(file_path)
     df['RA'] = df['RA'].astype(str).str.replace('\.0$', '', regex=True)     
-    df['NOME'] = df['NOME'].apply(lambda x: unidecode(x).upper())    
+    df['NOME'] = df['NOME'].apply(lambda x: unidecode(x).upper())
 except FileNotFoundError:
     print("Arquivo não encontrado!")
     df = pd.DataFrame()
@@ -24,7 +24,7 @@ except FileNotFoundError:
 driver = webdriver.Chrome()
 
 for index, row in df.iloc[0:].iterrows():
-    driver.get("URL_SITE")
+    driver.get("url")
     
     time.sleep(7)    
     
@@ -46,12 +46,4 @@ for index, row in df.iloc[0:].iterrows():
     botao_cadastrar.click()
     
     time.sleep(5)  
-
-    # Alterar o campo "cadastro" para "sim" após o cadastro bem-sucedido
-    df.at[index, 'cadastro'] = 'sim'
-
-# Fechar o navegador após cadastrar todos
 driver.quit()
-
-# Salvar as alterações de volta no arquivo Excel
-df.to_excel(file_path, index=False)
