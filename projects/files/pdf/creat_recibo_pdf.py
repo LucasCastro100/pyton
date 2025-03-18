@@ -16,7 +16,7 @@ months = [
 date = datetime.today()
 month = months[date.month - 1]
 current_date = date.strftime('%d/%m/%Y')
-current_format = date.strftime(f'%d de {month} de %Y')
+current_format = f'Uberaba, {date.strftime(f'%d de {month} de %Y')}'
 
 # LAYOUT
 pdf = FPDF(orientation="L", unit="mm", format=(315, 800))
