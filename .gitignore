@@ -8,6 +8,7 @@ dicas
 # Ignorar arquivos bytecode Python
 *.pyc
 *.pyo
+*.env
 
 # Ignorar diretórios de ambientes virtuais
 venv/
