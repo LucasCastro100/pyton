@@ -16,6 +16,7 @@
   - Modules e PIP
   - POO
   - Arquivos
+  - Banco de dados
 
 - Projetos
   - EM DESENVOLVIMENTO...
