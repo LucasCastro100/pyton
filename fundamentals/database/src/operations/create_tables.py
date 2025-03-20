@@ -5,5 +5,5 @@ class CreateTable:
         self.manipulator = ManipulateTable()
         self.query = query
 
-    def create(self):
+    def execute(self):
         self.manipulator.execute(self.query)

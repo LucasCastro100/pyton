@@ -5,5 +5,5 @@ class AlterTable:
         self.manipulator = ManipulateTable()
         self.query = query
 
-    def alter(self):
+    def execute(self):
         self.manipulator.execute(self.query)

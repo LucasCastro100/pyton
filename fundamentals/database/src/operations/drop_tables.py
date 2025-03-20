@@ -5,5 +5,5 @@ class DropTable:
         self.manipulator = ManipulateTable()
         self.query = query
 
-    def drop(self):
+    def execute(self):
         self.manipulator.execute(self.query)
