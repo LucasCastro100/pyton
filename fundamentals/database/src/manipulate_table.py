@@ -1,4 +1,4 @@
-from conection_mysql import Database
+from src.conection_mysql import Database
 
 class ManipulateTable:
     # CLASSE PARA EXECUTAR UM COMANDO NO BANCO DE DADOS.
