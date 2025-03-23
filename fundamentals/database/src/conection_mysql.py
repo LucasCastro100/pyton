@@ -34,17 +34,23 @@ class Database:
             self.conection.close()
             print("CONEXÃO ENCERRADA.")
 
-    def execute_comando(self, comando):
-        # EXECUTA UM COMANDO SQL NO BANCO DE DADOS.
+    def execute_comando(self, comando, params=None):
+    # EXECUTA UM COMANDO SQL NO BANCO DE DADOS.
         try:
             self.connect()
-            self.cursor.execute(comando)
-            self.conection.commit()
+            
+            if params:
+                self.cursor.execute(comando, params)
+            else:
+                self.cursor.execute(comando)  
+
+            self.conection.commit()  
             print("COMANDO EXECUTADO COM SUCESSO!")
         except mysql.connector.Error as erro:
             print(f"ERRO AO EXECUTAR COMANDO SQL: {erro}")
         finally:
-            self.close_conection()
+            self.close_conection()  
+
 
     def listar_tabelas(self):
         # LISTA TODAS AS TABELAS DO BANCO DE DADOS.

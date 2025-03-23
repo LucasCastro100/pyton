@@ -7,3 +7,4 @@ class DropTable:
 
     def execute(self):
         self.manipulator.execute(self.query)
+        print("Tabela excluida com sucesso!")

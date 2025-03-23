@@ -7,3 +7,4 @@ class AlterTable:
 
     def execute(self):
         self.manipulator.execute(self.query)
+        print("Tabela alterada com sucesso!")

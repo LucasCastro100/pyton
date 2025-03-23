@@ -7,3 +7,4 @@ class CreateTable:
 
     def execute(self):
         self.manipulator.execute(self.query)
+        print("Tabela craida com sucesso!")
