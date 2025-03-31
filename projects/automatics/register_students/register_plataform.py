@@ -10,29 +10,33 @@ import time
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Construir o caminho absoluto do arquivo Excel
-file_path = os.path.join(current_dir, "nome_tabela.extensão")
+file_path = os.path.join(current_dir, "espaco_letrado.xlsx")
 
 # Carregar os dados do arquivo Excel
 try:
     df = pd.read_excel(file_path)
-    df['RA'] = df['RA'].astype(str).str.replace('\.0$', '', regex=True)     
-    df['NOME'] = df['NOME'].apply(lambda x: unidecode(x).upper())
+    # df['RA'] = df['RA'].astype(str).str.replace('\.0$', '', regex=True)     
+    df['ALUNO'] = df['ALUNO'].apply(lambda x: unidecode(x).upper())
 except FileNotFoundError:
     print("Arquivo não encontrado!")
     df = pd.DataFrame()
 
 driver = webdriver.Chrome()
 
+# Quando a esocla tiver email e senha padrão
+email_fixed = ""
+pass_fixed = "Inicial@123"
+
 for index, row in df.iloc[0:].iterrows():
-    driver.get("url")
+    driver.get("https://mundoz.zoom.education/cadastrar")
     
     time.sleep(7)    
     
     # Aqui no link os input não tinham name nem id por isso peguei o placeholder
-    driver.find_element(By.XPATH, '//input[@placeholder="Nome"]').send_keys(row["NOME"])
-    driver.find_element(By.XPATH, '//input[@placeholder="Nickname"]').send_keys(row["RA"])
+    driver.find_element(By.XPATH, '//input[@placeholder="Nome"]').send_keys(row["ALUNO"])
+    driver.find_element(By.XPATH, '//input[@placeholder="Nickname"]').send_keys(row["USUARIO"])
     driver.find_element(By.XPATH, '//input[@placeholder="Email de contato"]').send_keys(row["EMAIL"])
-    driver.find_element(By.XPATH, '//input[@placeholder="Senha"]').send_keys(row["SENHA"])
+    driver.find_element(By.XPATH, '//input[@placeholder="Senha"]').send_keys(pass_fixed)
     time.sleep(2)  
     
     elemento_body = driver.find_element(By.TAG_NAME, "body")
