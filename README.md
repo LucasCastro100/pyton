@@ -10,13 +10,14 @@
 ## AQUI FALAREMOS SOBRE PYTHON
 ### Neste diretorio sigam as pastas para ver os projetos
 
-- Fundamentos 
-  - Exercises  
-  - Introctions 
-  - Modules e PIP
-  - POO
-  - Arquivos
-  - Banco de dados
+- Base
+  - Fundamentos 
+    - Exercises  
+    - Introctions 
+    - Modules e PIP
+    - POO
+    - Arquivos
+    - Banco de dados
 
 - Projetos
   - EM DESENVOLVIMENTO...
