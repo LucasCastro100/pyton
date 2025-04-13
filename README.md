@@ -11,9 +11,9 @@
 ### Neste diretorio sigam as pastas para ver os projetos
 
 - Base
-  - Fundamentos 
-    - Exercises  
-    - Introctions 
+  - Fundamentos
+    - Exercises
+    - Introctions
     - Modules e PIP
     - POO
     - Arquivos
