@@ -12,7 +12,6 @@ st.sidebar.header("Filtros")
 
 # get_years = sorted(list(df_top_100['year of publication'].unique()), reverse=True)
 # get_years.insert(0, "Todos")
-
 # year = st.sidebar.selectbox("Ano de publicação", get_years)
 
 rating_min = df_top_100['rating'].min()
@@ -42,6 +41,9 @@ df_top_100_filter = df_top_100[
 
 df_top_100_filter
 
-fig = px.bar(df_top_100['year of publication'].value_counts())
-st.subheader("Avaliações dos livros")
-st.plotly_chart(fig, use_container_width=True)
+fig_1 = px.bar(df_top_100['year of publication'].value_counts())
+fig_2 = px.histogram(df_top_100['book price'])
+
+col_1, col_2 = st.columns(2)
+col_1.plotly_chart(fig_1, use_container_width=True)
+col_2.plotly_chart(fig_2, use_container_width=True)
