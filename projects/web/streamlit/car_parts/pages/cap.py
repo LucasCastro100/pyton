@@ -17,7 +17,7 @@ with st.form("my_form"):
     description = col_2.text_input("Descrição", "")
     marca = col_3.text_input("Marca", "")
 
-    submitted = st.form_submit_button("Submit")
+    submitted = st.form_submit_button("Pesquisar")
     if submitted:
         data_tabel_filter = data_table[
             (data_table['codigo_fabricante'].astype(str).str.contains(product, case=False)) &
