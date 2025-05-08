@@ -35,7 +35,6 @@ col_2.metric("Preço", book_price)
 col_3.metric("Ano lançamento", book_year)
 st.divider()
 
-
 st.subheader("Descrições do livro")
 for row in df_reviews_filter.values:
     message = st.chat_message(f"{row[4]}")
