@@ -17,10 +17,12 @@
     - Modules e PIP
     - POO
     - Arquivos
-    - Banco de dados
+    - Banco de dados (CRUD)
+    - Automações
+    - Análise de Dados
 
 - Projetos
-  - EM DESENVOLVIMENTO...
+  - EM DESENVOLVIMENTO... (APIS, AUTOMAÇÕES, ANÁLISE DE DADOS, WEB)
 
 ## Nos projetos utilize
 #### Criar um arquivo requirements.txt
