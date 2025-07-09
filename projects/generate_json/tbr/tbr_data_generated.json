@@ -1,0 +1,929 @@
+[
+    {
+        "id": "3JLAVNTWVL3C",
+        "nome": "Interno Teresa Valse",
+        "data": "2025-08-09",
+        "equipes": [
+            {
+                "id": "J08V2TLXKPXR",
+                "name": "Equipe Baby 1",
+                "category": "baby",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "616PHYPU2PFF",
+                "name": "Equipe Baby 2",
+                "category": "baby",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "8QAYHDZN1PUE",
+                "name": "Equipe Baby 3",
+                "category": "baby",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "4RXM4JCSYPJI",
+                "name": "Equipe Baby 4",
+                "category": "baby",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "JP1J1X402S1Z",
+                "name": "Equipe Baby 5",
+                "category": "baby",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "374YW9ICVS1L",
+                "name": "Equipe Kids1 1",
+                "category": "kids1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "0UCTM9KIZFMF",
+                "name": "Equipe Kids1 2",
+                "category": "kids1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "45JHY01UIBI1",
+                "name": "Equipe Kids1 3",
+                "category": "kids1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "XAEUU0FFMWAS",
+                "name": "Equipe Kids1 4",
+                "category": "kids1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "ZE63BDXK8GER",
+                "name": "Equipe Kids1 5",
+                "category": "kids1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "1QJNO364Q1EK",
+                "name": "Equipe Kids2 1",
+                "category": "kids2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "G139ZDDRO4W6",
+                "name": "Equipe Kids2 2",
+                "category": "kids2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "AI5JBWUI7FGI",
+                "name": "Equipe Kids2 3",
+                "category": "kids2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "1ANA1YXGNIZR",
+                "name": "Equipe Kids2 4",
+                "category": "kids2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "20M2RT1H8ZOU",
+                "name": "Equipe Kids2 5",
+                "category": "kids2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "X91E6453G0C7",
+                "name": "Equipe Middle1 1",
+                "category": "middle1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "7CTZRF6PBNAT",
+                "name": "Equipe Middle1 2",
+                "category": "middle1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "7B8EGOFD8TMQ",
+                "name": "Equipe Middle1 3",
+                "category": "middle1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "7V4M93NJMMPR",
+                "name": "Equipe Middle1 4",
+                "category": "middle1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "OHM64E1TTU0M",
+                "name": "Equipe Middle1 5",
+                "category": "middle1",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "8LVCOQKN7SIL",
+                "name": "Equipe Middle2 1",
+                "category": "middle2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "OVA8808S9HL0",
+                "name": "Equipe Middle2 2",
+                "category": "middle2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "HCQ3JA4TB9P3",
+                "name": "Equipe Middle2 3",
+                "category": "middle2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "OSRFP7199D7Z",
+                "name": "Equipe Middle2 4",
+                "category": "middle2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "VFEZ5R0R1HI3",
+                "name": "Equipe Middle2 5",
+                "category": "middle2",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "22GYHCQU10RB",
+                "name": "Equipe High 1",
+                "category": "high",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "VJKHNAYXTT4T",
+                "name": "Equipe High 2",
+                "category": "high",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "9MRZYALCI3P9",
+                "name": "Equipe High 3",
+                "category": "high",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "EJEKD67JZY1G",
+                "name": "Equipe High 4",
+                "category": "high",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "OS3Y6P6M91I2",
+                "name": "Equipe High 5",
+                "category": "high",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "T57WX0DWKIW5",
+                "name": "Equipe Technic 1",
+                "category": "technic",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "XTB0OMCLZR5U",
+                "name": "Equipe Technic 2",
+                "category": "technic",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "801JVPM1BTIQ",
+                "name": "Equipe Technic 3",
+                "category": "technic",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "UKD9LR969T06",
+                "name": "Equipe Technic 4",
+                "category": "technic",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "CLQ3EZYAOKN3",
+                "name": "Equipe Technic 5",
+                "category": "technic",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "7MFZ4PPIZKMX",
+                "name": "Equipe University 1",
+                "category": "university",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "R1E800C6T2ZQ",
+                "name": "Equipe University 2",
+                "category": "university",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "S7ROPCUZDD2M",
+                "name": "Equipe University 3",
+                "category": "university",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "GUWUYJDV0YA0",
+                "name": "Equipe University 4",
+                "category": "university",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            },
+            {
+                "id": "YA0IUC4AVTWL",
+                "name": "Equipe University 5",
+                "category": "university",
+                "modalities": {
+                    "mc": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "om": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "te": {
+                        "nota": 0,
+                        "comentario": ""
+                    },
+                    "dp": {
+                        "nota": 0,
+                        "comentario": ""
+                    }
+                }
+            }
+        ]
+    }
+]
