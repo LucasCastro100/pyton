@@ -1,11 +1,18 @@
 [
     {
-        "id": "D06Z341ETICQ",
+        "id": "PDUERRXIDT4E",
         "nome": "Interno Teresa Valse",
         "data": "2025-08-09",
+        "ranking_config": {
+            "modalities_to_show": [
+                "ap"
+            ],
+            "top_positions": 1,
+            "general_top_positions": 2
+        },
         "equipes": [
             {
-                "id": "X4FCLB1J735K",
+                "id": "HE1R7LZNGV4D",
                 "name": "Equipe Baby 1",
                 "category": "baby",
                 "modalities": {
@@ -18,7 +25,7 @@
                 "nota_total": 0
             },
             {
-                "id": "5IHE9BOZKYCX",
+                "id": "5C9DEU9CS3BN",
                 "name": "Equipe Baby 2",
                 "category": "baby",
                 "modalities": {
@@ -31,7 +38,7 @@
                 "nota_total": 0
             },
             {
-                "id": "USEAQE2T87JS",
+                "id": "DAG8BHQZ07J9",
                 "name": "Equipe Baby 3",
                 "category": "baby",
                 "modalities": {
@@ -44,7 +51,7 @@
                 "nota_total": 0
             },
             {
-                "id": "DLBUZ87B8FYX",
+                "id": "FHAHCLL1RT3U",
                 "name": "Equipe Baby 4",
                 "category": "baby",
                 "modalities": {
@@ -57,7 +64,7 @@
                 "nota_total": 0
             },
             {
-                "id": "YWSLW35IGPMK",
+                "id": "XUV7Y9ZAVQ3B",
                 "name": "Equipe Baby 5",
                 "category": "baby",
                 "modalities": {
@@ -70,7 +77,7 @@
                 "nota_total": 0
             },
             {
-                "id": "M6BSCBYYW65Y",
+                "id": "MLITOKL8LPWQ",
                 "name": "Equipe Kids1 1",
                 "category": "kids1",
                 "modalities": {
@@ -92,7 +99,7 @@
                 "nota_total": 0
             },
             {
-                "id": "KKW3AAOZRMUK",
+                "id": "JB5LS1L39YGC",
                 "name": "Equipe Kids1 2",
                 "category": "kids1",
                 "modalities": {
@@ -114,7 +121,7 @@
                 "nota_total": 0
             },
             {
-                "id": "YM666LJY9SC6",
+                "id": "OL71VEQR4QNX",
                 "name": "Equipe Kids1 3",
                 "category": "kids1",
                 "modalities": {
@@ -136,7 +143,7 @@
                 "nota_total": 0
             },
             {
-                "id": "861QELEXVA94",
+                "id": "AALHFASNQS14",
                 "name": "Equipe Kids1 4",
                 "category": "kids1",
                 "modalities": {
@@ -158,7 +165,7 @@
                 "nota_total": 0
             },
             {
-                "id": "WYFAKS1N0C4E",
+                "id": "O764MH16Q95K",
                 "name": "Equipe Kids1 5",
                 "category": "kids1",
                 "modalities": {
@@ -180,7 +187,7 @@
                 "nota_total": 0
             },
             {
-                "id": "Q4VLC23TG5YX",
+                "id": "HZ9ZJANEPM7S",
                 "name": "Equipe Kids2 1",
                 "category": "kids2",
                 "modalities": {
@@ -212,7 +219,7 @@
                 "nota_total": 0
             },
             {
-                "id": "8QQ3KT8USWYT",
+                "id": "4F8FE8DISHDO",
                 "name": "Equipe Kids2 2",
                 "category": "kids2",
                 "modalities": {
@@ -244,7 +251,7 @@
                 "nota_total": 0
             },
             {
-                "id": "5FTLDHNFPMP6",
+                "id": "RDGAQIPRIKPY",
                 "name": "Equipe Kids2 3",
                 "category": "kids2",
                 "modalities": {
@@ -276,7 +283,7 @@
                 "nota_total": 0
             },
             {
-                "id": "WLSAJ02E5N6S",
+                "id": "T0XVOSC0V3KQ",
                 "name": "Equipe Kids2 4",
                 "category": "kids2",
                 "modalities": {
@@ -308,7 +315,7 @@
                 "nota_total": 0
             },
             {
-                "id": "HPBZ66TKE39W",
+                "id": "H4SSFBFYQC9E",
                 "name": "Equipe Kids2 5",
                 "category": "kids2",
                 "modalities": {
@@ -340,7 +347,7 @@
                 "nota_total": 0
             },
             {
-                "id": "4BI6GEB52SAR",
+                "id": "Y323LY59ELLK",
                 "name": "Equipe Middle1 1",
                 "category": "middle1",
                 "modalities": {
@@ -372,7 +379,7 @@
                 "nota_total": 0
             },
             {
-                "id": "AKLBQ7XTC2CP",
+                "id": "J464FP9L0APZ",
                 "name": "Equipe Middle1 2",
                 "category": "middle1",
                 "modalities": {
@@ -404,7 +411,7 @@
                 "nota_total": 0
             },
             {
-                "id": "8FZDG0CRAVT0",
+                "id": "VBT6ZB40V5OM",
                 "name": "Equipe Middle1 3",
                 "category": "middle1",
                 "modalities": {
@@ -436,7 +443,7 @@
                 "nota_total": 0
             },
             {
-                "id": "YST1WMFRRQ26",
+                "id": "GBOMK8GM9W88",
                 "name": "Equipe Middle1 4",
                 "category": "middle1",
                 "modalities": {
@@ -468,7 +475,7 @@
                 "nota_total": 0
             },
             {
-                "id": "EYQNT72U3UAH",
+                "id": "4F0Z6ECHSM91",
                 "name": "Equipe Middle1 5",
                 "category": "middle1",
                 "modalities": {
@@ -500,7 +507,7 @@
                 "nota_total": 0
             },
             {
-                "id": "YNSID14VPO04",
+                "id": "IFRYQH1UXVFV",
                 "name": "Equipe Middle2 1",
                 "category": "middle2",
                 "modalities": {
@@ -532,7 +539,7 @@
                 "nota_total": 0
             },
             {
-                "id": "PO57ZXZM3DF7",
+                "id": "O0CF8PPJRJNA",
                 "name": "Equipe Middle2 2",
                 "category": "middle2",
                 "modalities": {
@@ -564,7 +571,7 @@
                 "nota_total": 0
             },
             {
-                "id": "YCVAXGV8VAIP",
+                "id": "Y35NSBYN4D91",
                 "name": "Equipe Middle2 3",
                 "category": "middle2",
                 "modalities": {
@@ -596,7 +603,7 @@
                 "nota_total": 0
             },
             {
-                "id": "1Q0O4S91PH97",
+                "id": "VHFIL4U6ZM72",
                 "name": "Equipe Middle2 4",
                 "category": "middle2",
                 "modalities": {
@@ -628,7 +635,7 @@
                 "nota_total": 0
             },
             {
-                "id": "MV0B0PC89CID",
+                "id": "ME1F21ZD3C4R",
                 "name": "Equipe Middle2 5",
                 "category": "middle2",
                 "modalities": {
@@ -660,7 +667,7 @@
                 "nota_total": 0
             },
             {
-                "id": "D496AX6KSK3M",
+                "id": "K194GASUQWXS",
                 "name": "Equipe High 1",
                 "category": "high",
                 "modalities": {
@@ -692,7 +699,7 @@
                 "nota_total": 0
             },
             {
-                "id": "GT6GL5A9VHRQ",
+                "id": "SWHE8Z50C6PJ",
                 "name": "Equipe High 2",
                 "category": "high",
                 "modalities": {
@@ -724,7 +731,7 @@
                 "nota_total": 0
             },
             {
-                "id": "8Y6D7BFJQJWF",
+                "id": "1YC257U9GCN1",
                 "name": "Equipe High 3",
                 "category": "high",
                 "modalities": {
@@ -756,7 +763,7 @@
                 "nota_total": 0
             },
             {
-                "id": "RBZ3E4KJS32S",
+                "id": "JZLPOKBEU3XR",
                 "name": "Equipe High 4",
                 "category": "high",
                 "modalities": {
@@ -788,7 +795,7 @@
                 "nota_total": 0
             },
             {
-                "id": "I3VROK4WMPLL",
+                "id": "3EPMDFPC6C76",
                 "name": "Equipe High 5",
                 "category": "high",
                 "modalities": {
@@ -820,7 +827,7 @@
                 "nota_total": 0
             },
             {
-                "id": "VVZ6MHYQ6LN0",
+                "id": "FXIVFZSQZRTY",
                 "name": "Equipe Technic 1",
                 "category": "technic",
                 "modalities": {
@@ -852,7 +859,7 @@
                 "nota_total": 0
             },
             {
-                "id": "VISTKTIAA9PB",
+                "id": "6Y63EDRP0MQ0",
                 "name": "Equipe Technic 2",
                 "category": "technic",
                 "modalities": {
@@ -884,7 +891,7 @@
                 "nota_total": 0
             },
             {
-                "id": "89Z0ZRM1BPQX",
+                "id": "E5V4JZPA25OP",
                 "name": "Equipe Technic 3",
                 "category": "technic",
                 "modalities": {
@@ -916,7 +923,7 @@
                 "nota_total": 0
             },
             {
-                "id": "HGLT3MI07LL7",
+                "id": "GOEYYS7A7HYK",
                 "name": "Equipe Technic 4",
                 "category": "technic",
                 "modalities": {
@@ -948,7 +955,7 @@
                 "nota_total": 0
             },
             {
-                "id": "1T8R7BF7WRD8",
+                "id": "UZOGLIQFPYW2",
                 "name": "Equipe Technic 5",
                 "category": "technic",
                 "modalities": {
@@ -980,7 +987,7 @@
                 "nota_total": 0
             },
             {
-                "id": "I3234UGA360T",
+                "id": "9H3LCRRKXIVH",
                 "name": "Equipe University 1",
                 "category": "university",
                 "modalities": {
@@ -1012,7 +1019,7 @@
                 "nota_total": 0
             },
             {
-                "id": "A2UJM83KDQ1U",
+                "id": "5D8MV60CXBBE",
                 "name": "Equipe University 2",
                 "category": "university",
                 "modalities": {
@@ -1044,7 +1051,7 @@
                 "nota_total": 0
             },
             {
-                "id": "F91U9J3A9SCD",
+                "id": "BWZ2HAAU9EFB",
                 "name": "Equipe University 3",
                 "category": "university",
                 "modalities": {
@@ -1076,7 +1083,7 @@
                 "nota_total": 0
             },
             {
-                "id": "TMGETRG2NK9B",
+                "id": "6V10AMAR06G6",
                 "name": "Equipe University 4",
                 "category": "university",
                 "modalities": {
@@ -1108,7 +1115,7 @@
                 "nota_total": 0
             },
             {
-                "id": "1IHDG5Y848NI",
+                "id": "OIHEX5YVDZ7Z",
                 "name": "Equipe University 5",
                 "category": "university",
                 "modalities": {
