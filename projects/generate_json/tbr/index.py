@@ -13,11 +13,11 @@ categories = [
 
 # Templates modalidades por categoria
 modalidades_baby = {
-    "gl": {"nota": [], "total": 0, "comentario": ""}
+    "ap": {"nota": [], "total": 0, "comentario": ""}
 }
 
 modalidades_kids1 = {
-    "gl": {"nota": [], "total": 0, "comentario": ""},
+    "ap": {"nota": [], "total": 0, "comentario": ""},
     "dp": {"nota": {"r1": [], "r2": [], "r3": []}, "total": 0, "comentario": ""}
 }
 
@@ -52,7 +52,7 @@ teams = []
 
 # Gera equipes para todas categorias (em média 5 por categoria)
 for category in categories:
-    for i in range(5):
+    for i in range(1):
         if category == "baby":
             modalidades = copy.deepcopy(modalidades_baby)
         elif category == "kids1":
